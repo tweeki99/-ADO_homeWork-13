@@ -1,0 +1,6 @@
+c:\users\шипиловд.corp\source\repos\DCA.ConsoleApp\DCA.Models\bin\Debug\DCA.Models.dll
+c:\users\шипиловд.corp\source\repos\DCA.ConsoleApp\DCA.Models\bin\Debug\DCA.Models.pdb
+c:\users\шипиловд.corp\source\repos\DCA.ConsoleApp\DCA.Models\obj\Debug\DCA.Models.csprojAssemblyReference.cache
+c:\users\шипиловд.corp\source\repos\DCA.ConsoleApp\DCA.Models\obj\Debug\DCA.Models.csproj.CoreCompileInputs.cache
+c:\users\шипиловд.corp\source\repos\DCA.ConsoleApp\DCA.Models\obj\Debug\DCA.Models.dll
+c:\users\шипиловд.corp\source\repos\DCA.ConsoleApp\DCA.Models\obj\Debug\DCA.Models.pdb
